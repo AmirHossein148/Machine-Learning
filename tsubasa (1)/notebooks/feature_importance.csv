@@ -1,0 +1,19 @@
+feature_selection,fi
+angle,0.05799544162359549
+distance,0.05547235276898599
+interveningOpponents,0.044405221331191846
+x,0.04364606358739809
+y,0.03180406402602021
+playType_پنالتی,0.01410344564011945
+interveningTeammates,0.00886030268103788
+interferenceOnShooter_زیاد,0.007663762949112307
+playType_جریان بازی,0.005687181338682734
+bodyPart_پا,0.004908890250675979
+interferenceOnShooter_کم,0.003484944271173518
+interferenceOnShooter_متوسط,0.0007236018348848461
+playType_مستقیم از کرنر,0.00028339144483280343
+bodyPart_سایر,9.75343700302389e-05
+bodyPart_سر,0.0
+second,0.0
+minute,0.0
+playType_ضربه آزاد مستقیم,0.0
